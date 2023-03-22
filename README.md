@@ -1,3 +1,3 @@
 # idkTheNameOfThis
 
-this may be a background generator? now sure
+this may be a background generator? not sure
